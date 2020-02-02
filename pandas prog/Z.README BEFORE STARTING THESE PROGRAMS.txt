@@ -1,0 +1,8 @@
+NOT ALL THE FUNCTONS/OPERATIONS ARE DISCUSSED 
+IF YOU WANT TO DO SOME NEW OPERATION WHICH IS NOT MENTIONED GOOGLE IT AND SEARCH IT IN THE DOCUMENTATION
+REMEMBER, WITH PANDAS WE CAN DO ALMOST ANYTHING
+
+
+RESOURCE: codebasics channel,youtube
+name: pandas python tutorial
+uncovered portion: pandas time series: 7 videos on handling time data type. tutorial 12,13,14
